@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VincentArzoni
-- 👀 I’m interested in Data Engineer
-- 🌱 I’m currently learning Python and SQL
+- 👀 I’m interested in complex problems
+- 🌱 I’m currently learning Data Engineering, Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
